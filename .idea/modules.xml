@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WangdanAndroidComponent.iml" filepath="$PROJECT_DIR$/WangdanAndroidComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basemodule/basemodule.iml" filepath="$PROJECT_DIR$/basemodule/basemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarymodule/librarymodule.iml" filepath="$PROJECT_DIR$/librarymodule/librarymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routermodule/routermodule.iml" filepath="$PROJECT_DIR$/routermodule/routermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travelmodule/travelmodule.iml" filepath="$PROJECT_DIR$/travelmodule/travelmodule.iml" />
+    </modules>
+  </component>
+</project>

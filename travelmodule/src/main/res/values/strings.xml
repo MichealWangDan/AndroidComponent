@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelModule</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">空空空空空空</string>
+    <string name="travel">出行</string>
+</resources>
